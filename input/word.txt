@@ -1,0 +1,4 @@
+hello scala
+hello Spark
+hello leon
+HBase hive Kafka
